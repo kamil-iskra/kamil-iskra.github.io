@@ -1,6 +1,6 @@
 # Hello!
 
-Hey, I'm Kamil Iskra 👋
+I'm Kamil Iskra 👋
 
 💻 All my projects can be found here on [Github](https://github.com/kamil-iskra?tab=repositories).
 
